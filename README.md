@@ -28,4 +28,4 @@ Unlike that one prism mechanism.
 That was fun. 
 
 
-This showfile in action: https://www.youtube.com/watch?v=xUceIRhuvo0
+This showfile in action: https://www.youtube.com/watch?v=xUceIRhuvo0 (EPILEPSY & WEIRDNESS WARNING!)
