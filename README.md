@@ -17,3 +17,15 @@ If you don't own Capture, you can download the demo from at https://www.capture.
 
 To import the MagicQ showfile, place it within the the "show" directory in your MagicQ folder or put it on a flash drive, whichever you prefer.
 Requires minimum stable version 1.9.1.6, Beta 1.9.2.2 recommended.
+
+P.S. Also fixed the profile for the Vizi Beam 12RX's. Go take a look at it in the edit cur head. 
+Do whatever you want with this showfile. If it helps you out with something or inspires something, feel free to drop me a line, I'd love to see.
+
+May your steppers remain agile.
+
+Unlike that one prism mechanism.
+
+That was fun. 
+
+
+This showfile in action: https://www.youtube.com/watch?v=xUceIRhuvo0
